@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadro de salarios", "Calculadro de salarios\Calculadro de salarios.csproj", "{C895B2A0-73B6-4823-8AEE-389F57B2019F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C895B2A0-73B6-4823-8AEE-389F57B2019F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C895B2A0-73B6-4823-8AEE-389F57B2019F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C895B2A0-73B6-4823-8AEE-389F57B2019F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C895B2A0-73B6-4823-8AEE-389F57B2019F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BEB05B-69EB-4D61-9DCD-E64861852350}
+	EndGlobalSection
+EndGlobal

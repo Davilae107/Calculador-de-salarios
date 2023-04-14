@@ -1,0 +1,11 @@
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\bin\Debug\Calculadro de salarios.exe.config
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\bin\Debug\Calculadro de salarios.exe
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\bin\Debug\Calculadro de salarios.pdb
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro de salarios.csproj.AssemblyReference.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro de salarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro_de_salarios.Form1.resources
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro_de_salarios.Properties.Resources.resources
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro de salarios.csproj.GenerateResource.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro de salarios.csproj.CoreCompileInputs.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro de salarios.exe
+C:\Users\davil\OneDrive\Escritorio\C#\Calculadro de salarios\Calculadro de salarios\obj\Debug\Calculadro de salarios.pdb
